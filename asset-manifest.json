@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Employee-front/static/css/main.1fe49032.css",
+    "main.js": "/Employee-front/static/js/main.dbcc542d.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/Employee-front/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/logo.svg": "/Employee-front/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Employee-front/index.html",
+    "main.1fe49032.css.map": "/Employee-front/static/css/main.1fe49032.css.map",
+    "main.dbcc542d.js.map": "/Employee-front/static/js/main.dbcc542d.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/Employee-front/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fe49032.css",
+    "static/js/main.dbcc542d.js"
+  ]
+}
