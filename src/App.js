@@ -9,6 +9,7 @@ function App() {
     <div className="App">
     <Navbar/>
     <AllRouts/>
+    <img src='https://kredily.com/wp-content/uploads/2023/01/emp-mng-sys-1024x585.png' alt='logo'/>
     </div>
   );
 }
