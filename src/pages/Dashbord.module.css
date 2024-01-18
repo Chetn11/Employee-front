@@ -1,0 +1,19 @@
+.table th,td{
+    padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+.table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+.table{
+    margin: auto;
+}
+.table>tbody>tr th{
+    font-size: medium;
+    font-weight: 400;
+}
+#main button{
+    background-color: #0366ee;
+    color: white;
+}

@@ -1,0 +1,14 @@
+#main{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color:#0366ee ;
+    display:flex;
+    justify-content: center;
+    gap:"100px"
+}
+
+#main .fun:hover{
+    transform: scale(1.5);
+}
+.btn{
+    background-color: #0366ee;
+}
